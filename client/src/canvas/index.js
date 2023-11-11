@@ -1,3 +1,5 @@
-const Canvas = () => <div>Canvas</div>;
+function Canvas() {
+  return <div>index</div>;
+}
 
 export default Canvas;
