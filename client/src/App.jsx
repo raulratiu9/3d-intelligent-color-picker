@@ -1,4 +1,3 @@
-import "./App.css";
 import CanvasModel from "./canvas";
 
 import Customizer from "./pages/Customizer";
